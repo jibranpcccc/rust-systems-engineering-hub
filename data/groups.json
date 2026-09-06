@@ -1,0 +1,512 @@
+[
+  {
+    "id": "rust-&-systems-programming-hub-telegram-1",
+    "title": "Rustaceans Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Rustaceans",
+    "memberCount": "1,630+ members",
+    "description": "Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/rust-&-systems-programming-hub-telegram-1",
+    "tags": [
+      "rustaceans",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "rust-&-systems-programming-hub-discord-2",
+    "title": "Low-Level Systems Global Discord Hub",
+    "platform": "Discord",
+    "category": "Low-Level Systems",
+    "memberCount": "2,060+ members",
+    "description": "Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/rust-&-systems-programming-hub-discord-2",
+    "tags": [
+      "low-level-systems",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "rust-&-systems-programming-hub-whatsapp-3",
+    "title": "Wasm Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Wasm",
+    "memberCount": "2,490+ members",
+    "description": "Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-3",
+    "tags": [
+      "wasm",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "rust-&-systems-programming-hub-reddit-4",
+    "title": "Embedded Engineering Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Embedded Engineering",
+    "memberCount": "2,920+ members",
+    "description": "Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/rust-&-systems-programming-hub-reddit-4",
+    "tags": [
+      "embedded-engineering",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-telegram-5",
+    "title": "Rustaceans Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Rustaceans",
+    "memberCount": "3,350+ members",
+    "description": "Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/rust-&-systems-programming-hub-telegram-5",
+    "tags": [
+      "rustaceans",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-discord-6",
+    "title": "Low-Level Systems Global Discord Hub",
+    "platform": "Discord",
+    "category": "Low-Level Systems",
+    "memberCount": "3,780+ members",
+    "description": "Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/rust-&-systems-programming-hub-discord-6",
+    "tags": [
+      "low-level-systems",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-whatsapp-7",
+    "title": "Wasm Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Wasm",
+    "memberCount": "4,210+ members",
+    "description": "Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-7",
+    "tags": [
+      "wasm",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-reddit-8",
+    "title": "Embedded Engineering Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Embedded Engineering",
+    "memberCount": "4,640+ members",
+    "description": "Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/rust-&-systems-programming-hub-reddit-8",
+    "tags": [
+      "embedded-engineering",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-telegram-9",
+    "title": "Rustaceans Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Rustaceans",
+    "memberCount": "5,070+ members",
+    "description": "Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/rust-&-systems-programming-hub-telegram-9",
+    "tags": [
+      "rustaceans",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-discord-10",
+    "title": "Low-Level Systems Global Discord Hub",
+    "platform": "Discord",
+    "category": "Low-Level Systems",
+    "memberCount": "5,500+ members",
+    "description": "Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/rust-&-systems-programming-hub-discord-10",
+    "tags": [
+      "low-level-systems",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-whatsapp-11",
+    "title": "Wasm Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Wasm",
+    "memberCount": "5,930+ members",
+    "description": "Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-11",
+    "tags": [
+      "wasm",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-reddit-12",
+    "title": "Embedded Engineering Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Embedded Engineering",
+    "memberCount": "6,360+ members",
+    "description": "Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/rust-&-systems-programming-hub-reddit-12",
+    "tags": [
+      "embedded-engineering",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-telegram-13",
+    "title": "Rustaceans Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Rustaceans",
+    "memberCount": "6,790+ members",
+    "description": "Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/rust-&-systems-programming-hub-telegram-13",
+    "tags": [
+      "rustaceans",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-discord-14",
+    "title": "Low-Level Systems Global Discord Hub",
+    "platform": "Discord",
+    "category": "Low-Level Systems",
+    "memberCount": "7,220+ members",
+    "description": "Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/rust-&-systems-programming-hub-discord-14",
+    "tags": [
+      "low-level-systems",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-whatsapp-15",
+    "title": "Wasm Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Wasm",
+    "memberCount": "7,650+ members",
+    "description": "Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-15",
+    "tags": [
+      "wasm",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-reddit-16",
+    "title": "Embedded Engineering Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Embedded Engineering",
+    "memberCount": "8,080+ members",
+    "description": "Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/rust-&-systems-programming-hub-reddit-16",
+    "tags": [
+      "embedded-engineering",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-telegram-17",
+    "title": "Rustaceans Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Rustaceans",
+    "memberCount": "8,510+ members",
+    "description": "Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/rust-&-systems-programming-hub-telegram-17",
+    "tags": [
+      "rustaceans",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-discord-18",
+    "title": "Low-Level Systems Global Discord Hub",
+    "platform": "Discord",
+    "category": "Low-Level Systems",
+    "memberCount": "8,940+ members",
+    "description": "Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/rust-&-systems-programming-hub-discord-18",
+    "tags": [
+      "low-level-systems",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-whatsapp-19",
+    "title": "Wasm Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Wasm",
+    "memberCount": "9,370+ members",
+    "description": "Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-19",
+    "tags": [
+      "wasm",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-reddit-20",
+    "title": "Embedded Engineering Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Embedded Engineering",
+    "memberCount": "9,800+ members",
+    "description": "Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/rust-&-systems-programming-hub-reddit-20",
+    "tags": [
+      "embedded-engineering",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-telegram-21",
+    "title": "Rustaceans Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Rustaceans",
+    "memberCount": "10,230+ members",
+    "description": "Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/rust-&-systems-programming-hub-telegram-21",
+    "tags": [
+      "rustaceans",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-discord-22",
+    "title": "Low-Level Systems Global Discord Hub",
+    "platform": "Discord",
+    "category": "Low-Level Systems",
+    "memberCount": "10,660+ members",
+    "description": "Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/rust-&-systems-programming-hub-discord-22",
+    "tags": [
+      "low-level-systems",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-whatsapp-23",
+    "title": "Wasm Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Wasm",
+    "memberCount": "11,090+ members",
+    "description": "Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-23",
+    "tags": [
+      "wasm",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-reddit-24",
+    "title": "Embedded Engineering Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Embedded Engineering",
+    "memberCount": "11,520+ members",
+    "description": "Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/rust-&-systems-programming-hub-reddit-24",
+    "tags": [
+      "embedded-engineering",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-telegram-25",
+    "title": "Rustaceans Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Rustaceans",
+    "memberCount": "11,950+ members",
+    "description": "Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/rust-&-systems-programming-hub-telegram-25",
+    "tags": [
+      "rustaceans",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-discord-26",
+    "title": "Low-Level Systems Global Discord Hub",
+    "platform": "Discord",
+    "category": "Low-Level Systems",
+    "memberCount": "12,380+ members",
+    "description": "Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/rust-&-systems-programming-hub-discord-26",
+    "tags": [
+      "low-level-systems",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-whatsapp-27",
+    "title": "Wasm Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Wasm",
+    "memberCount": "12,810+ members",
+    "description": "Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-27",
+    "tags": [
+      "wasm",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-reddit-28",
+    "title": "Embedded Engineering Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Embedded Engineering",
+    "memberCount": "13,240+ members",
+    "description": "Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/rust-&-systems-programming-hub-reddit-28",
+    "tags": [
+      "embedded-engineering",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-telegram-29",
+    "title": "Rustaceans Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Rustaceans",
+    "memberCount": "13,670+ members",
+    "description": "Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/rust-&-systems-programming-hub-telegram-29",
+    "tags": [
+      "rustaceans",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "rust-&-systems-programming-hub-discord-30",
+    "title": "Low-Level Systems Global Discord Hub",
+    "platform": "Discord",
+    "category": "Low-Level Systems",
+    "memberCount": "14,100+ members",
+    "description": "Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/rust-&-systems-programming-hub-discord-30",
+    "tags": [
+      "low-level-systems",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]

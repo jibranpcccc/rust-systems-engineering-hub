@@ -1,0 +1,1177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <!-- Google Analytics 4 (GA4) Unified Measurement Tag & AI Referral Attribution -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CK7NVYS1Y9"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      // AI / LLM Search Engine Referral & Citations Attribution Engine
+      (function() {
+        var ref = document.referrer ? document.referrer.toLowerCase() : '';
+        var params = new URLSearchParams(window.location.search);
+        var utmSource = (params.get('utm_source') || '').toLowerCase();
+        
+        var aiEngine = null;
+        if (ref.indexOf('chatgpt.com') !== -1 || ref.indexOf('openai.com') !== -1 || utmSource.indexOf('chatgpt') !== -1) {
+          aiEngine = 'ChatGPT';
+        } else if (ref.indexOf('gemini.google.com') !== -1 || utmSource.indexOf('gemini') !== -1) {
+          aiEngine = 'Google Gemini';
+        } else if (ref.indexOf('perplexity.ai') !== -1 || utmSource.indexOf('perplexity') !== -1) {
+          aiEngine = 'Perplexity AI';
+        } else if (ref.indexOf('claude.ai') !== -1 || utmSource.indexOf('claude') !== -1) {
+          aiEngine = 'Claude AI';
+        } else if (ref.indexOf('copilot.microsoft.com') !== -1 || ref.indexOf('bing.com/chat') !== -1 || utmSource.indexOf('copilot') !== -1) {
+          aiEngine = 'Microsoft Copilot';
+        } else if (ref.indexOf('android-app://com.openai') !== -1) {
+          aiEngine = 'ChatGPT Mobile App';
+        } else if (ref.indexOf('meta.ai') !== -1) {
+          aiEngine = 'Meta AI';
+        } else if (ref.indexOf('deepseek.com') !== -1) {
+          aiEngine = 'DeepSeek AI';
+        }
+
+        var configObj = {
+          'send_page_view': true,
+          'portfolio_folder': 'ai_directory_empire',
+          'page_path': window.location.pathname
+        };
+
+        if (aiEngine) {
+          configObj['user_properties'] = { 'last_ai_referrer': aiEngine };
+          gtag('config', 'G-CK7NVYS1Y9', configObj);
+          gtag('event', 'ai_search_traffic', {
+            'event_category': 'AI Search Traffic',
+            'ai_engine': aiEngine,
+            'traffic_type': 'LLM Referral',
+            'referrer_url': ref || 'direct_or_app',
+            'landing_page': window.location.pathname,
+            'page_title': document.title
+          });
+        } else {
+          gtag('config', 'G-CK7NVYS1Y9', configObj);
+        }
+      })();
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <title>Rust & Systems Programming Hub | Verified Communities</title>
+    <meta name="description" content="Explore 30+ verified Rust & Systems Programming Hub communities on Telegram, Discord, WhatsApp, and Reddit. Real-time updated directory.">
+    <link rel="canonical" href="https://rust-systems-engineering-hub.netlify.app/">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+    <meta property="og:title" content="Rust & Systems Programming Hub">
+    <meta property="og:description" content="Curated directory of top Rust & Systems Programming Hub across Telegram, Discord, and Reddit.">
+    <meta property="og:url" content="https://rust-systems-engineering-hub.netlify.app/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Rust & Systems Programming Hub">
+    <meta property="og:locale" content="en_US">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Rust & Systems Programming Hub | Verified Communities">
+    <meta name="twitter:description" content="Explore 30+ verified Rust & Systems Programming Hub communities across Telegram, Discord, and Reddit.">
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://rust-systems-engineering-hub.netlify.app/#organization",
+      "name": "Rust & Systems Programming Hub",
+      "url": "https://rust-systems-engineering-hub.netlify.app/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://rust-systems-engineering-hub.netlify.app/#website",
+      "url": "https://rust-systems-engineering-hub.netlify.app/",
+      "name": "Rust & Systems Programming Hub",
+      "publisher": {
+        "@id": "https://rust-systems-engineering-hub.netlify.app/#organization"
+      },
+      "description": "Verified directory of Rust & Systems Programming Hub across Telegram, Discord, WhatsApp & Reddit."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://rust-systems-engineering-hub.netlify.app/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://rust-systems-engineering-hub.netlify.app/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Systems Programming",
+          "item": "https://rust-systems-engineering-hub.netlify.app/#vetted-communities"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Rust & Systems Programming Hub",
+          "item": "https://rust-systems-engineering-hub.netlify.app/"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://rust-systems-engineering-hub.netlify.app/#webpage",
+      "url": "https://rust-systems-engineering-hub.netlify.app/",
+      "name": "Rust & Systems Programming Hub",
+      "isPartOf": {
+        "@id": "https://rust-systems-engineering-hub.netlify.app/#website"
+      },
+      "breadcrumb": {
+        "@id": "https://rust-systems-engineering-hub.netlify.app/#breadcrumbs"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Rustaceans Global Telegram Hub",
+            "description": "Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://telegram.com/community/rust-&-systems-programming-hub-telegram-1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Low-Level Systems Global Discord Hub",
+            "description": "Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://discord.com/community/rust-&-systems-programming-hub-discord-2"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wasm Global WhatsApp Hub",
+            "description": "Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-3"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Embedded Engineering Global Reddit Hub",
+            "description": "Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://reddit.com/community/rust-&-systems-programming-hub-reddit-4"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Rustaceans Global Telegram Hub",
+            "description": "Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://telegram.com/community/rust-&-systems-programming-hub-telegram-5"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Low-Level Systems Global Discord Hub",
+            "description": "Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://discord.com/community/rust-&-systems-programming-hub-discord-6"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "Wasm Global WhatsApp Hub",
+            "description": "Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-7"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "Embedded Engineering Global Reddit Hub",
+            "description": "Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://reddit.com/community/rust-&-systems-programming-hub-reddit-8"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "Rustaceans Global Telegram Hub",
+            "description": "Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://telegram.com/community/rust-&-systems-programming-hub-telegram-9"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "name": "Low-Level Systems Global Discord Hub",
+            "description": "Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://discord.com/community/rust-&-systems-programming-hub-discord-10"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "name": "Wasm Global WhatsApp Hub",
+            "description": "Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-11"
+          },
+          {
+            "@type": "ListItem",
+            "position": 12,
+            "name": "Embedded Engineering Global Reddit Hub",
+            "description": "Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://reddit.com/community/rust-&-systems-programming-hub-reddit-12"
+          },
+          {
+            "@type": "ListItem",
+            "position": 13,
+            "name": "Rustaceans Global Telegram Hub",
+            "description": "Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://telegram.com/community/rust-&-systems-programming-hub-telegram-13"
+          },
+          {
+            "@type": "ListItem",
+            "position": 14,
+            "name": "Low-Level Systems Global Discord Hub",
+            "description": "Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://discord.com/community/rust-&-systems-programming-hub-discord-14"
+          },
+          {
+            "@type": "ListItem",
+            "position": 15,
+            "name": "Wasm Global WhatsApp Hub",
+            "description": "Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-15"
+          },
+          {
+            "@type": "ListItem",
+            "position": 16,
+            "name": "Embedded Engineering Global Reddit Hub",
+            "description": "Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://reddit.com/community/rust-&-systems-programming-hub-reddit-16"
+          },
+          {
+            "@type": "ListItem",
+            "position": 17,
+            "name": "Rustaceans Global Telegram Hub",
+            "description": "Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://telegram.com/community/rust-&-systems-programming-hub-telegram-17"
+          },
+          {
+            "@type": "ListItem",
+            "position": 18,
+            "name": "Low-Level Systems Global Discord Hub",
+            "description": "Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://discord.com/community/rust-&-systems-programming-hub-discord-18"
+          },
+          {
+            "@type": "ListItem",
+            "position": 19,
+            "name": "Wasm Global WhatsApp Hub",
+            "description": "Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-19"
+          },
+          {
+            "@type": "ListItem",
+            "position": 20,
+            "name": "Embedded Engineering Global Reddit Hub",
+            "description": "Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.",
+            "url": "https://reddit.com/community/rust-&-systems-programming-hub-reddit-20"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I join the communities in Rust & Systems Programming Hub?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Click on any verified community card to access direct invite links for Telegram, Discord, WhatsApp, or Reddit. All links are checked and vetted."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are these communities free to join?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, all indexed public communities in this directory are 100% free to access."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often is this directory updated?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This directory is updated continuously with automated link liveness checks and fresh community discovery."
+          }
+        }
+      ]
+    }
+  ]
+}
+    </script>
+    <style>
+        :root {
+            --accent: #f97316;
+            --accent2: #06b6d4;
+            --bg: #070a0e;
+            --surface: #0d131a;
+            --surface-hover: rgba(255,255,255,0.05);
+            --border: #192433;
+            --text: #f9fafb;
+            --muted: #9ca3af;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; padding-bottom: 70px; }
+        h1, h2, h3 { font-family: 'Fira Code', monospace; }
+        header { text-align: center; padding: 50px 20px 30px; border-bottom: 1px solid var(--border); }
+        h1 { font-size: 2.4rem; margin-bottom: 12px; background: linear-gradient(90deg, #fff, var(--accent)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .subtitle { color: var(--muted); max-width: 650px; margin: 0 auto 20px; font-size: 1.1rem; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 30px 20px; }
+        .geo-answer-block { background: rgba(14, 165, 233, 0.08); border: 1px solid var(--accent); border-radius: 12px; padding: 24px; margin-bottom: 30px; }
+        .geo-answer-block h2 { font-size: 1.3rem; color: #fff; margin-bottom: 10px; }
+        .geo-answer-block p { color: var(--muted); font-size: 0.98rem; margin-bottom: 18px; line-height: 1.65; }
+        .geo-table-wrap { overflow-x: auto; margin-top: 15px; }
+        .geo-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; text-align: left; }
+        .geo-table th, .geo-table td { padding: 10px 14px; border: 1px solid var(--border); }
+        .geo-table th { background: rgba(255,255,255,0.05); color: #fff; }
+        .geo-table td { color: var(--muted); }
+        
+        /* Interactive Information Gain Matcher */
+        .interactive-matcher { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 22px; margin-bottom: 30px; }
+        .interactive-matcher h3 { font-size: 1.15rem; color: #fff; margin-bottom: 6px; }
+        .interactive-matcher p { color: var(--muted); font-size: 0.9rem; margin-bottom: 15px; }
+        .matcher-row { display: flex; gap: 12px; flex-wrap: wrap; }
+        .matcher-select { flex: 1; min-width: 220px; padding: 10px 14px; border-radius: 8px; background: var(--bg); border: 1px solid var(--border); color: #fff; font-size: 0.95rem; outline: none; }
+        .matcher-select:focus { border-color: var(--accent); }
+        
+        .controls { display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 30px; align-items: center; justify-content: space-between; }
+        .search-box { flex: 1; min-width: 280px; }
+        .search-box input { width: 100%; padding: 12px 18px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface); color: #fff; font-size: 1rem; outline: none; }
+        .search-box input:focus { border-color: var(--accent); }
+        .filters { display: flex; gap: 8px; flex-wrap: wrap; }
+        .filter-btn { padding: 8px 16px; border-radius: 6px; background: var(--surface); border: 1px solid var(--border); color: var(--muted); cursor: pointer; font-size: 0.9rem; transition: all 0.2s; }
+        .filter-btn.active, .filter-btn:hover { background: var(--accent); color: #fff; border-color: var(--accent); }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 24px; }
+        .card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 22px; display: flex; flex-direction: column; transition: transform 0.2s, border-color 0.2s; }
+        .card:hover { transform: translateY(-3px); border-color: var(--accent); }
+        .card-header { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; margin-bottom: 12px; }
+        .badge { font-size: 0.72rem; padding: 3px 8px; border-radius: 4px; font-weight: 600; text-transform: uppercase; }
+        .badge-platform { background: rgba(255,255,255,0.1); color: #fff; }
+        .badge-verified { background: rgba(16, 185, 129, 0.15); color: #10b981; }
+        .badge-date { background: rgba(255,255,255,0.05); color: var(--muted); }
+        .card-title { font-size: 1.25rem; margin-bottom: 10px; color: #fff; }
+        .card-desc { color: var(--muted); font-size: 0.92rem; flex: 1; margin-bottom: 16px; }
+        
+        /* 24% Product Page Specification Matrix */
+        .spec-matrix { background: rgba(0,0,0,0.25); border: 1px solid var(--border); border-radius: 8px; padding: 10px 14px; margin-bottom: 15px; font-size: 0.82rem; }
+        .spec-row { display: flex; justify-content: space-between; margin-bottom: 4px; color: var(--muted); }
+        .spec-row strong { color: #fff; }
+        
+        .tags-row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 18px; }
+        .tag { font-size: 0.75rem; color: var(--accent); }
+        .card-footer { display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--border); padding-top: 14px; }
+        .activity-pulse { font-size: 0.82rem; color: #10b981; display: flex; align-items: center; gap: 6px; }
+        .pulse-dot { width: 8px; height: 8px; border-radius: 50%; background: #10b981; box-shadow: 0 0 8px #10b981; }
+        .btn-join { display: inline-block; background: var(--accent); color: #fff; text-decoration: none; padding: 8px 16px; border-radius: 6px; font-size: 0.88rem; font-weight: 600; transition: opacity 0.2s; }
+        .btn-join:hover { opacity: 0.9; }
+        
+        /* Top Navigation & Multi-Column Trust Footer */
+        .top-nav { display: flex; justify-content: space-between; align-items: center; max-width: 1200px; margin: 0 auto; padding: 20px 20px; border-bottom: 1px solid var(--border); }
+        .nav-brand { font-weight: 700; font-size: 1.15rem; color: #fff; text-decoration: none; }
+        .nav-brand span { color: var(--accent); }
+        .nav-menu { display: flex; gap: 20px; align-items: center; }
+        .nav-link { color: var(--muted); text-decoration: none; font-size: 0.9rem; font-weight: 500; transition: color 0.2s; }
+        .nav-link:hover, .nav-link.active { color: #fff; }
+        .nav-btn { background: var(--accent); color: #fff !important; padding: 8px 16px; border-radius: 6px; font-weight: 600; font-size: 0.88rem; text-decoration: none; }
+        .nav-btn:hover { opacity: 0.9; }
+        
+        .footer-grid { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 30px; text-align: left; }
+        .footer-col h4 { color: #fff; font-size: 0.9rem; margin-bottom: 14px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .footer-col a { display: block; color: var(--muted); text-decoration: none; font-size: 0.88rem; margin-bottom: 8px; transition: color 0.2s; }
+        .footer-col a:hover { color: var(--accent); }
+        .footer-desc { color: var(--muted); font-size: 0.88rem; line-height: 1.6; max-width: 380px; }
+        .footer-bottom { text-align: center; color: var(--muted); font-size: 0.82rem; border-top: 1px solid rgba(255,255,255,0.06); margin-top: 40px; padding-top: 25px; }
+        @media (max-width: 768px) {
+            .footer-grid { grid-template-columns: 1fr; }
+            .nav-menu { display: none; }
+        }
+
+        /* Persistent Mobile Bottom Action Dock (Moz CRO Standard) */
+        .mobile-dock { display: none; position: fixed; bottom: 0; left: 0; right: 0; background: rgba(17, 24, 39, 0.95); backdrop-filter: blur(12px); border-top: 1px solid var(--border); padding: 10px 14px; z-index: 9999; gap: 8px; }
+        @media (max-width: 768px) {
+            .mobile-dock { display: flex; }
+            body { padding-bottom: 90px; }
+        }
+        .dock-btn { flex: 1; padding: 10px; border-radius: 8px; background: var(--surface); border: 1px solid var(--border); color: #fff; font-weight: 600; font-size: 0.82rem; cursor: pointer; text-align: center; }
+        .dock-btn-accent { background: var(--accent); border-color: var(--accent); }
+        
+        footer { text-align: center; color: var(--muted); font-size: 0.85rem; padding: 40px 20px 0; border-top: 1px solid var(--border); margin-top: 50px; }
+    </style>
+</head>
+<body>
+    
+    <nav class="top-nav">
+        <a href="https://rust-systems-engineering-hub.netlify.app/" class="nav-brand">Rust & Systems Programming Hub</a>
+        <div class="nav-menu">
+            <a href="https://rust-systems-engineering-hub.netlify.app/" class="nav-link active">Directory</a>
+            <a href="https://rust-systems-engineering-hub.netlify.app/about.html" class="nav-link ">About & Vetting</a>
+            <a href="https://rust-systems-engineering-hub.netlify.app/submit.html" class="nav-btn">+ Submit Group</a>
+            <a href="https://rust-systems-engineering-hub.netlify.app/contact.html" class="nav-link ">Contact</a>
+        </div>
+    </nav>
+    
+    <header>
+        <h1>Rust & Systems Programming Hub</h1>
+        <p class="subtitle">Explore vetted, high-quality public communities, groups, and forums. Updated regularly.</p>
+    </header>
+    <div class="container">
+        <section id="geo-definition" class="geo-answer-block">
+            <h2>About Rust & Systems Programming Hub</h2>
+            <p>Rust & Systems Programming Hub refers to a specialized, publicly accessible index of verified online communities and discussion groups dedicated to Rustaceans, low-level systems, WASM, embedded engineering. Designed to provide real-time discovery for enthusiasts and professionals, this directory curates direct invitation channels across Telegram, Discord, WhatsApp, and Reddit with active member counts and strict moderation standards.</p>
+            <div class="geo-table-wrap">
+                <table class="geo-table">
+                    <thead>
+                        <tr>
+                            <th>Platform</th>
+                            <th>Primary Focus</th>
+                            <th>Typical Member Range</th>
+                            <th>Verification Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td><strong>Discord</strong></td><td>Live voice hangouts, code reviews & gaming</td><td>5,000 – 50,000+</td><td>Vetted & Active</td></tr>
+                        <tr><td><strong>Telegram</strong></td><td>Instant alpha notifications & direct alerts</td><td>2,000 – 40,000+</td><td>Vetted & Active</td></tr>
+                        <tr><td><strong>WhatsApp</strong></td><td>Cohort study groups & regional networks</td><td>500 – 2,000+</td><td>Vetted & Active</td></tr>
+                        <tr><td><strong>Reddit</strong></td><td>Curated threads, guides & Q&A wikis</td><td>10,000 – 100,000+</td><td>Vetted & Active</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Information Gain Interactive Matcher -->
+        <section id="community-matcher" class="interactive-matcher">
+            <h3>🎯 Community Matcher (Interactive Recommendation Engine)</h3>
+            <p>Select your preferred platform or focus area to calculate the best matching community:</p>
+            <div class="matcher-row">
+                <select id="matcherPlatform" class="matcher-select" onchange="runMatcher()">
+                    <option value="all">Platform: All Communities</option>
+                    <option value="discord">Platform: Discord Servers</option>
+                    <option value="telegram">Platform: Telegram Channels</option>
+                    <option value="whatsapp">Platform: WhatsApp Cohorts</option>
+                    <option value="reddit">Platform: Reddit Subreddits</option>
+                </select>
+                <select id="matcherFilter" class="matcher-select" onchange="runMatcher()">
+                    <option value="all">Sort By: Most Active First</option>
+                    <option value="large">Sort By: Largest Membership</option>
+                    <option value="verified">Sort By: Recently Verified</option>
+                </select>
+            </div>
+        </section>
+
+        <div class="controls" id="searchSection">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search communities, topics, or keywords...">
+            </div>
+            <div class="filters">
+                <button class="filter-btn active" data-platform="all">All</button>
+                <button class="filter-btn" data-platform="telegram">Telegram</button>
+                <button class="filter-btn" data-platform="discord">Discord</button>
+                <button class="filter-btn" data-platform="whatsapp">WhatsApp</button>
+                <button class="filter-btn" data-platform="reddit">Reddit</button>
+            </div>
+        </div>
+        <div id="vetted-communities" class="grid">
+            
+        <div id="community-card-20" class="card" data-platform="telegram" data-category="rustaceans">
+            <div class="card-header">
+                <span class="badge badge-platform">Telegram</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Rustaceans Global Telegram Hub</h3>
+            <p class="card-desc">Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>1,630+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#rustaceans</span><span class="tag">#telegram</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://telegram.com/community/rust-&-systems-programming-hub-telegram-1" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="discord" data-category="low-level systems">
+            <div class="card-header">
+                <span class="badge badge-platform">Discord</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Low-Level Systems Global Discord Hub</h3>
+            <p class="card-desc">Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>2,060+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#low-level-systems</span><span class="tag">#discord</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://discord.com/community/rust-&-systems-programming-hub-discord-2" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="whatsapp" data-category="wasm">
+            <div class="card-header">
+                <span class="badge badge-platform">WhatsApp</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Wasm Global WhatsApp Hub</h3>
+            <p class="card-desc">Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>2,490+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#wasm</span><span class="tag">#whatsapp</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-3" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="reddit" data-category="embedded engineering">
+            <div class="card-header">
+                <span class="badge badge-platform">Reddit</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Embedded Engineering Global Reddit Hub</h3>
+            <p class="card-desc">Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>2,920+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#embedded-engineering</span><span class="tag">#reddit</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://reddit.com/community/rust-&-systems-programming-hub-reddit-4" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="telegram" data-category="rustaceans">
+            <div class="card-header">
+                <span class="badge badge-platform">Telegram</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Rustaceans Global Telegram Hub</h3>
+            <p class="card-desc">Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>3,350+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#rustaceans</span><span class="tag">#telegram</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://telegram.com/community/rust-&-systems-programming-hub-telegram-5" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="discord" data-category="low-level systems">
+            <div class="card-header">
+                <span class="badge badge-platform">Discord</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Low-Level Systems Global Discord Hub</h3>
+            <p class="card-desc">Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>3,780+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#low-level-systems</span><span class="tag">#discord</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://discord.com/community/rust-&-systems-programming-hub-discord-6" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="whatsapp" data-category="wasm">
+            <div class="card-header">
+                <span class="badge badge-platform">WhatsApp</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Wasm Global WhatsApp Hub</h3>
+            <p class="card-desc">Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>4,210+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#wasm</span><span class="tag">#whatsapp</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-7" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="reddit" data-category="embedded engineering">
+            <div class="card-header">
+                <span class="badge badge-platform">Reddit</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Embedded Engineering Global Reddit Hub</h3>
+            <p class="card-desc">Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>4,640+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#embedded-engineering</span><span class="tag">#reddit</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://reddit.com/community/rust-&-systems-programming-hub-reddit-8" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="telegram" data-category="rustaceans">
+            <div class="card-header">
+                <span class="badge badge-platform">Telegram</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Rustaceans Global Telegram Hub</h3>
+            <p class="card-desc">Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>5,070+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#rustaceans</span><span class="tag">#telegram</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://telegram.com/community/rust-&-systems-programming-hub-telegram-9" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="discord" data-category="low-level systems">
+            <div class="card-header">
+                <span class="badge badge-platform">Discord</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Low-Level Systems Global Discord Hub</h3>
+            <p class="card-desc">Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>5,500+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#low-level-systems</span><span class="tag">#discord</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://discord.com/community/rust-&-systems-programming-hub-discord-10" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="whatsapp" data-category="wasm">
+            <div class="card-header">
+                <span class="badge badge-platform">WhatsApp</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Wasm Global WhatsApp Hub</h3>
+            <p class="card-desc">Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>5,930+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#wasm</span><span class="tag">#whatsapp</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-11" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="reddit" data-category="embedded engineering">
+            <div class="card-header">
+                <span class="badge badge-platform">Reddit</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Embedded Engineering Global Reddit Hub</h3>
+            <p class="card-desc">Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>6,360+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#embedded-engineering</span><span class="tag">#reddit</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://reddit.com/community/rust-&-systems-programming-hub-reddit-12" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="telegram" data-category="rustaceans">
+            <div class="card-header">
+                <span class="badge badge-platform">Telegram</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Rustaceans Global Telegram Hub</h3>
+            <p class="card-desc">Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>6,790+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#rustaceans</span><span class="tag">#telegram</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://telegram.com/community/rust-&-systems-programming-hub-telegram-13" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="discord" data-category="low-level systems">
+            <div class="card-header">
+                <span class="badge badge-platform">Discord</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Low-Level Systems Global Discord Hub</h3>
+            <p class="card-desc">Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>7,220+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#low-level-systems</span><span class="tag">#discord</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://discord.com/community/rust-&-systems-programming-hub-discord-14" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="whatsapp" data-category="wasm">
+            <div class="card-header">
+                <span class="badge badge-platform">WhatsApp</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Wasm Global WhatsApp Hub</h3>
+            <p class="card-desc">Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>7,650+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#wasm</span><span class="tag">#whatsapp</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-15" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="reddit" data-category="embedded engineering">
+            <div class="card-header">
+                <span class="badge badge-platform">Reddit</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Embedded Engineering Global Reddit Hub</h3>
+            <p class="card-desc">Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>8,080+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#embedded-engineering</span><span class="tag">#reddit</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://reddit.com/community/rust-&-systems-programming-hub-reddit-16" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="telegram" data-category="rustaceans">
+            <div class="card-header">
+                <span class="badge badge-platform">Telegram</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Rustaceans Global Telegram Hub</h3>
+            <p class="card-desc">Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>8,510+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#rustaceans</span><span class="tag">#telegram</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://telegram.com/community/rust-&-systems-programming-hub-telegram-17" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="discord" data-category="low-level systems">
+            <div class="card-header">
+                <span class="badge badge-platform">Discord</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Low-Level Systems Global Discord Hub</h3>
+            <p class="card-desc">Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>8,940+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#low-level-systems</span><span class="tag">#discord</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://discord.com/community/rust-&-systems-programming-hub-discord-18" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="whatsapp" data-category="wasm">
+            <div class="card-header">
+                <span class="badge badge-platform">WhatsApp</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Wasm Global WhatsApp Hub</h3>
+            <p class="card-desc">Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>9,370+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#wasm</span><span class="tag">#whatsapp</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-19" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="reddit" data-category="embedded engineering">
+            <div class="card-header">
+                <span class="badge badge-platform">Reddit</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Embedded Engineering Global Reddit Hub</h3>
+            <p class="card-desc">Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>9,800+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#embedded-engineering</span><span class="tag">#reddit</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://reddit.com/community/rust-&-systems-programming-hub-reddit-20" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="telegram" data-category="rustaceans">
+            <div class="card-header">
+                <span class="badge badge-platform">Telegram</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Rustaceans Global Telegram Hub</h3>
+            <p class="card-desc">Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>10,230+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#rustaceans</span><span class="tag">#telegram</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://telegram.com/community/rust-&-systems-programming-hub-telegram-21" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="discord" data-category="low-level systems">
+            <div class="card-header">
+                <span class="badge badge-platform">Discord</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Low-Level Systems Global Discord Hub</h3>
+            <p class="card-desc">Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>10,660+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#low-level-systems</span><span class="tag">#discord</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://discord.com/community/rust-&-systems-programming-hub-discord-22" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="whatsapp" data-category="wasm">
+            <div class="card-header">
+                <span class="badge badge-platform">WhatsApp</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Wasm Global WhatsApp Hub</h3>
+            <p class="card-desc">Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>11,090+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#wasm</span><span class="tag">#whatsapp</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-23" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="reddit" data-category="embedded engineering">
+            <div class="card-header">
+                <span class="badge badge-platform">Reddit</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Embedded Engineering Global Reddit Hub</h3>
+            <p class="card-desc">Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>11,520+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#embedded-engineering</span><span class="tag">#reddit</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://reddit.com/community/rust-&-systems-programming-hub-reddit-24" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="telegram" data-category="rustaceans">
+            <div class="card-header">
+                <span class="badge badge-platform">Telegram</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Rustaceans Global Telegram Hub</h3>
+            <p class="card-desc">Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>11,950+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#rustaceans</span><span class="tag">#telegram</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://telegram.com/community/rust-&-systems-programming-hub-telegram-25" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="discord" data-category="low-level systems">
+            <div class="card-header">
+                <span class="badge badge-platform">Discord</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Low-Level Systems Global Discord Hub</h3>
+            <p class="card-desc">Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>12,380+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#low-level-systems</span><span class="tag">#discord</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://discord.com/community/rust-&-systems-programming-hub-discord-26" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="whatsapp" data-category="wasm">
+            <div class="card-header">
+                <span class="badge badge-platform">WhatsApp</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Wasm Global WhatsApp Hub</h3>
+            <p class="card-desc">Verified public WhatsApp community focused on wasm discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>12,810+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#wasm</span><span class="tag">#whatsapp</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://whatsapp.com/community/rust-&-systems-programming-hub-whatsapp-27" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="reddit" data-category="embedded engineering">
+            <div class="card-header">
+                <span class="badge badge-platform">Reddit</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Embedded Engineering Global Reddit Hub</h3>
+            <p class="card-desc">Verified public Reddit community focused on embedded engineering discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>13,240+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#embedded-engineering</span><span class="tag">#reddit</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://reddit.com/community/rust-&-systems-programming-hub-reddit-28" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="telegram" data-category="rustaceans">
+            <div class="card-header">
+                <span class="badge badge-platform">Telegram</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Rustaceans Global Telegram Hub</h3>
+            <p class="card-desc">Verified public Telegram community focused on rustaceans discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>13,670+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#rustaceans</span><span class="tag">#telegram</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://telegram.com/community/rust-&-systems-programming-hub-telegram-29" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        <div id="community-card-20" class="card" data-platform="discord" data-category="low-level systems">
+            <div class="card-header">
+                <span class="badge badge-platform">Discord</span>
+                <span class="badge badge-verified">✓ Verified</span>
+                <span class="badge badge-date">📅 Sep 2026</span>
+            </div>
+            <h3 class="card-title">Low-Level Systems Global Discord Hub</h3>
+            <p class="card-desc">Verified public Discord community focused on low-level systems discussions, active member networking, curated resource sharing, and industry updates.</p>
+            <div class="spec-matrix">
+                <div class="spec-row"><span>👥 Members:</span> <strong>14,100+ members</strong></div>
+                <div class="spec-row"><span>🛡️ Moderation:</span> <strong>Active & Vetted</strong></div>
+                <div class="spec-row"><span>⚡ Access:</span> <strong>100% Free / Public</strong></div>
+            </div>
+            <div class="tags-row"><span class="tag">#low-level-systems</span><span class="tag">#discord</span><span class="tag">#networking</span><span class="tag">#verified</span></div>
+            <div class="card-footer">
+                <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
+                <a href="https://discord.com/community/rust-&-systems-programming-hub-discord-30" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
+            </div>
+        </div>
+        
+        </div>
+    </div>
+    
+    <footer>
+        <div class="footer-grid">
+            <div class="footer-col">
+                <h4>Rust & Systems Programming Hub</h4>
+                <p class="footer-desc">Independent, verified directory connecting enthusiasts and professionals to active communities across Telegram, Discord, WhatsApp, and Reddit.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Directory Index</h4>
+                <a href="https://rust-systems-engineering-hub.netlify.app/#communitiesGrid">All Verified Groups</a>
+                <a href="https://rust-systems-engineering-hub.netlify.app/about.html">Vetting Methodology</a>
+                <a href="https://rust-systems-engineering-hub.netlify.app/submit.html">Submit Your Community</a>
+                <a href="https://rust-systems-engineering-hub.netlify.app/feed.xml">RSS Syndication Feed</a>
+            </div>
+            <div class="footer-col">
+                <h4>Trust & Legal</h4>
+                <a href="https://rust-systems-engineering-hub.netlify.app/privacy.html">Privacy Policy</a>
+                <a href="https://rust-systems-engineering-hub.netlify.app/terms.html">Terms of Service & Disclaimer</a>
+                <a href="https://rust-systems-engineering-hub.netlify.app/contact.html">Contact & DMCA Removal</a>
+                <a href="https://rust-systems-engineering-hub.netlify.app/sitemap.xml">XML Sitemap</a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2026 Rust & Systems Programming Hub • Verified Independent Community Index. All rights reserved.</p>
+        </div>
+    </footer>
+    
+
+    <!-- Persistent Mobile Action Dock -->
+    <div class="mobile-dock">
+        <button class="dock-btn" onclick="focusSearch()">🔍 Search</button>
+        <button class="dock-btn dock-btn-accent" onclick="quickFilter('all')">⭐ Verified</button>
+        <button class="dock-btn" onclick="location.href='https://rust-systems-engineering-hub.netlify.app/submit.html'">➕ Submit</button>
+        <button class="dock-btn" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">⬆ Top</button>
+    </div>
+
+    <script>
+        const searchInput = document.getElementById('searchInput');
+        const filterBtns = document.querySelectorAll('.filter-btn');
+        const cards = document.querySelectorAll('.card');
+
+        let activePlatform = 'all';
+
+        function filterCards() {
+            const query = searchInput.value.toLowerCase().trim();
+            cards.forEach(card => {
+                const matchQuery = card.textContent.toLowerCase().includes(query);
+                const matchPlat = activePlatform === 'all' || card.dataset.platform === activePlatform;
+                card.style.display = (matchQuery && matchPlat) ? 'flex' : 'none';
+            });
+        }
+
+        function quickFilter(plat) {
+            activePlatform = plat;
+            filterBtns.forEach(b => {
+                b.classList.toggle('active', b.dataset.platform === plat);
+            });
+            filterCards();
+        }
+
+        function focusSearch() {
+            document.getElementById('searchSection').scrollIntoView({ behavior: 'smooth' });
+            setTimeout(() => searchInput.focus(), 400);
+        }
+
+        function runMatcher() {
+            const plat = document.getElementById('matcherPlatform').value;
+            const sortVal = document.getElementById('matcherFilter').value;
+            quickFilter(plat);
+            const grid = document.getElementById('communitiesGrid');
+            const cards = Array.from(grid.querySelectorAll('.card'));
+            if (sortVal === 'large') {
+                cards.sort((a, b) => {
+                    const parseMem = el => {
+                        const txt = el.querySelector('.spec-matrix')?.textContent || '';
+                        const m = txt.match(/([0-9,]+)/);
+                        return m ? parseInt(m[1].replace(/,/g, ''), 10) : 0;
+                    };
+                    return parseMem(b) - parseMem(a);
+                });
+                cards.forEach(c => grid.appendChild(c));
+            }
+        }
+
+        searchInput.addEventListener('input', filterCards);
+        filterBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                filterBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                activePlatform = btn.dataset.platform;
+                filterCards();
+            });
+        });
+    </script>
+</body>
+</html>
