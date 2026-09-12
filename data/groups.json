@@ -341,12 +341,12 @@
   },
   {
     "id": "llvm-discord-guild",
-    "title": "LLVM & Compiler Engineers Discord",
-    "platform": "Discord",
+    "title": "LLVM Discourse Compiler Community",
+    "platform": "Forum",
     "category": "Compilers",
     "memberCount": "15,000+ members",
     "description": "Discussions with LLVM and compiler developers regarding Clang plugins, custom IR passes, code generation, and optimizations.",
-    "joinUrl": "https://discord.gg/llvm",
+    "joinUrl": "https://discourse.llvm.org",
     "tags": [
       "llvm",
       "compilers",
