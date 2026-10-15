@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 06:00:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:00:29 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                            <item>
+                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
+      <link>https://t.me/devops_channel</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-telegram-20261015-1-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:29 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Kubernetes Community Discord (Discord)</title>
       <link>https://discuss.kubernetes.io</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-discord-20261013-1-2026-10-13</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-telegram-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 06:06:45 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Python Official Discord (Discord)</title>
-      <link>https://discord.gg/python</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-discord-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 14:02:16 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Active real-time developer server for Python help, code reviews, algorithmic design, and package development.</description>
     </item>
   </channel>
 </rss>
