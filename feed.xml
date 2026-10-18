@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:00:29 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                        <item>
+                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/MachineLearning Research (Reddit)</title>
+      <link>https://www.reddit.com/r/MachineLearning/</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261018-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:00:29 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: HashiCorp Discuss Community (Forum)</title>
       <link>https://discuss.hashicorp.com</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-forum-20261017-1-2026-10-17</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-telegram-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:14:32 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: The Programmer's Hangout (Discord)</title>
-      <link>https://discord.gg/programming</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-discord-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 06:00:24 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.</description>
     </item>
   </channel>
 </rss>
