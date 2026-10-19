@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 06:00:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:00:30 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                            <item>
+                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/LocalLLaMA Open Models (Reddit)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261019-1-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:30 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/MachineLearning Research (Reddit)</title>
       <link>https://www.reddit.com/r/MachineLearning/</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261018-1-2026-10-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20260919-1-2026-09-19</guid>
       <pubDate>Sat, 19 Sep 2026 06:00:24 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Rust Language News &amp; Updates (Telegram)</title>
-      <link>https://t.me/rust_lang_news</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-telegram-20260918-1-2026-09-18</guid>
-      <pubDate>Fri, 18 Sep 2026 06:14:32 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.</description>
     </item>
   </channel>
 </rss>
