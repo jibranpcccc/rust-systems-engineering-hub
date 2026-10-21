@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 06:00:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:00:31 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                    <item>
+                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: OpenAI Official Discord (Discord)</title>
+      <link>https://discord.gg/openai</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-discord-20261021-1-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:31 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/ChatGPT AI Community (Reddit)</title>
       <link>https://www.reddit.com/r/ChatGPT/</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261020-1-2026-10-20</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-telegram-20260921-1-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 06:00:25 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Public channel providing updates on frontend, backend, browser standards, and dev tooling.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Reactiflux Discord Community (Discord)</title>
-      <link>https://discord.gg/reactiflux</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-discord-20260920-1-2026-09-20</guid>
-      <pubDate>Sun, 20 Sep 2026 06:00:26 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: The largest community of React, React Native, and full-stack JavaScript developers on Discord.</description>
     </item>
   </channel>
 </rss>

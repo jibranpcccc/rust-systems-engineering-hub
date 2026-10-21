@@ -1,5 +1,24 @@
 [
   {
+    "id": "rust-systems-engineering-hub-discord-20261021-1",
+    "title": "OpenAI Official Discord",
+    "platform": "Discord",
+    "category": "Generative AI",
+    "memberCount": "550,000+ members",
+    "description": "Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.",
+    "joinUrl": "https://discord.gg/openai",
+    "tags": [
+      "openai",
+      "chatgpt",
+      "api",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-21"
+  },
+  {
     "id": "rust-systems-engineering-hub-reddit-20261020-1",
     "title": "r/ChatGPT AI Community",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-20"
   },
   {
