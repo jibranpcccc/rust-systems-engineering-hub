@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 06:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:00:29 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                            <item>
+                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Machine Learning Digest Channel (Telegram)</title>
+      <link>https://t.me/machinelearning_digest</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-telegram-20261027-1-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:29 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Daily curated breakdown of machine learning algorithms, deep learning implementations, and neural net research.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: AI Insights &amp; Research Feed (Telegram)</title>
       <link>https://t.me/ai_insights</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-telegram-20261026-1-2026-10-26</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-discord-20260929-1-2026-09-29</guid>
       <pubDate>Tue, 29 Sep 2026 06:00:30 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Official community Discord for Vercel Next.js developers, Server Components, and App Router architectures.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Devcord Web Developers (Discord)</title>
-      <link>https://discord.gg/devcord</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-discord-20260927-1-2026-09-27</guid>
-      <pubDate>Sun, 27 Sep 2026 06:00:30 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Friendly web development and programming community covering modern web stacks, design, and career growth.</description>
     </item>
   </channel>
 </rss>
