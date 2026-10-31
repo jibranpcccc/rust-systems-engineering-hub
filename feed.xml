@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 06:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:52:28 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                    <item>
+                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/ClaudeAI Anthropic Community (Reddit)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261031-1-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 06:52:28 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Community focused on Anthropic's Claude models, Sonnet coding workflows, artifacts, and long-context capabilities.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/PromptEngineering Elite (Reddit)</title>
       <link>https://www.reddit.com/r/PromptEngineering/</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261029-1-2026-10-29</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-discord-20261001-1-2026-10-01</guid>
       <pubDate>Thu, 01 Oct 2026 07:51:44 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Official community for Tailwind CSS utility-first design, component architectures, and responsive layout styling.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Vue Land Community Discord (Discord)</title>
-      <link>https://discord.gg/vue</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-discord-20260930-1-2026-09-30</guid>
-      <pubDate>Wed, 30 Sep 2026 06:13:43 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: The official Discord community for Vue.js, Nuxt, Vite, Pinia, and frontend ecosystem tools.</description>
     </item>
   </channel>
 </rss>
