@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 01 Nov 2026 09:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:00:30 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                            <item>
+                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: LangChain Official Discord (Discord)</title>
+      <link>https://github.com/langchain-ai/langchain/discussions</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-discord-20261102-1-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:30 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Community dedicated to building LLM applications with LangChain, LangSmith, and LangGraph agent architectures.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Anthropic Claude Discord (Discord)</title>
       <link>https://discord.gg/anthropic</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-discord-20261101-1-2026-11-01</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-github-20261003-1-2026-10-03</guid>
       <pubDate>Sat, 03 Oct 2026 06:24:46 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Rust Language GitHub Discussions (GitHub)</title>
-      <link>https://users.rust-lang.org</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-github-20261002-1-2026-10-02</guid>
-      <pubDate>Fri, 02 Oct 2026 06:00:31 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
     </item>
   </channel>
 </rss>
