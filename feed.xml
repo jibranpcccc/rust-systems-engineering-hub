@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 05 Nov 2026 07:32:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:00:31 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                            <item>
+                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/cybersecurity Defense Hub (Reddit)</title>
+      <link>https://www.reddit.com/r/cybersecurity/</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261106-1-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 06:00:31 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Primary community for enterprise security analysts, blue teams, compliance frameworks, and threat intelligence.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Kaggle Data &amp; AI Discussions (Forum)</title>
       <link>https://www.kaggle.com/discussion</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-forum-20261105-1-2026-11-05</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261009-1-2026-10-09</guid>
       <pubDate>Fri, 09 Oct 2026 06:00:34 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Discussions on Kubernetes cluster management, Helm charts, ingress controllers, service meshes, and K8s operators.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/devops Practitioners Hub (Reddit)</title>
-      <link>https://www.reddit.com/r/devops/</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261008-1-2026-10-08</guid>
-      <pubDate>Thu, 08 Oct 2026 06:00:30 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: The center of DevOps culture, automation tooling, CI/CD pipelines, GitOps workflows, and infrastructure as code.</description>
     </item>
   </channel>
 </rss>
