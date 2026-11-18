@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 17 Nov 2026 06:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:00:28 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: 0x00sec Hacking Community (Forum)</title>
+      <link>https://0x00sec.org</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-forum-20261118-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:28 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Elite technical security forum sharing binary exploitation writeups, malware analysis, and hardware hacking.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: InfoSec Vulnerability Feeds (Telegram)</title>
       <link>https://t.me/infosec_alerts</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-telegram-20261117-1-2026-11-17</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261019-1-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 06:00:30 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/MachineLearning Research (Reddit)</title>
-      <link>https://www.reddit.com/r/MachineLearning/</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261018-1-2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 06:00:29 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.</description>
     </item>
   </channel>
 </rss>
