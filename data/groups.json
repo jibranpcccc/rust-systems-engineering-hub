@@ -1,5 +1,24 @@
 [
   {
+    "id": "embedded-reddit-hub",
+    "title": "r/embedded Firmware Engineering",
+    "platform": "Reddit",
+    "category": "Embedded",
+    "memberCount": "140,000+ members",
+    "description": "Hardware engineering forum discussing microcontrollers (STM32, ESP32, RISC-V), bare-metal Rust, RTOS, and protocol drivers.",
+    "joinUrl": "https://www.reddit.com/r/embedded/",
+    "tags": [
+      "embedded",
+      "firmware",
+      "rtos",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "id": "c-programming-reddit-hub",
     "title": "r/C_Programming Language Hub",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -1100,24 +1119,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "embedded-reddit-hub",
-    "title": "r/embedded Firmware Engineering",
-    "platform": "Reddit",
-    "category": "Embedded",
-    "memberCount": "140,000+ members",
-    "description": "Hardware engineering forum discussing microcontrollers (STM32, ESP32, RISC-V), bare-metal Rust, RTOS, and protocol drivers.",
-    "joinUrl": "https://www.reddit.com/r/embedded/",
-    "tags": [
-      "embedded",
-      "firmware",
-      "rtos",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "kernel-reddit-hub",

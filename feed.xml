@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 06:00:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 07:52:51 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/embedded Firmware Engineering (Reddit)</title>
+      <link>https://www.reddit.com/r/embedded/</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#embedded-reddit-hub-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 07:52:51 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Hardware engineering forum discussing microcontrollers (STM32, ESP32, RISC-V), bare-metal Rust, RTOS, and protocol drivers.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/C_Programming Language Hub (Reddit)</title>
       <link>https://www.reddit.com/r/C_Programming/</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#c-programming-reddit-hub-2026-11-20</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-discord-20261023-1-2026-10-23</guid>
       <pubDate>Fri, 23 Oct 2026 06:00:31 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Hub for the open-source AI community discussing Transformers, Diffusers, model weights, and Hugging Face Spaces.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Midjourney Official Discord (Discord)</title>
-      <link>https://discord.gg/midjourney</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-discord-20261022-1-2026-10-22</guid>
-      <pubDate>Thu, 22 Oct 2026 06:00:30 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: The largest generative art community in the world, featuring real-time image prompting, stylistic feedback, and gallery showcases.</description>
     </item>
   </channel>
 </rss>
