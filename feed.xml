@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 08:44:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:42:44 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/osdev Operating Systems Development (Reddit)</title>
+      <link>https://www.reddit.com/r/osdev/</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#osdev-reddit-hub-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 06:42:44 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Engineering operating systems from scratch, covering custom bootloaders, x86/ARM paging, interrupt handling, and microkernel design.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/kernel Linux Kernel Engineering (Reddit)</title>
       <link>https://www.reddit.com/r/kernel/</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#kernel-reddit-hub-2026-11-22</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261025-1-2026-10-25</guid>
       <pubDate>Sun, 25 Oct 2026 06:00:31 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Community dedicated to Stable Diffusion checkpoints, LoRAs, ComfyUI workflows, ControlNet, and SDXL rendering.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/Midjourney Prompt Engineering (Reddit)</title>
-      <link>https://www.reddit.com/r/Midjourney/</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261024-1-2026-10-24</guid>
-      <pubDate>Sat, 24 Oct 2026 06:00:29 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Curated community sharing Midjourney prompt formulas, lighting styles, camera parameters, and generative showcases.</description>
     </item>
   </channel>
 </rss>
