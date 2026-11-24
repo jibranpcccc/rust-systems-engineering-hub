@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 06:42:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:29:22 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/WebAssembly WASM &amp; WASI Systems (Reddit)</title>
+      <link>https://www.reddit.com/r/WebAssembly/</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#wasm-reddit-hub-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 07:29:22 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Exploring WebAssembly bytecode execution, Wasmtime runtimes, Component Model specifications, and high-speed native compilation.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/osdev Operating Systems Development (Reddit)</title>
       <link>https://www.reddit.com/r/osdev/</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#osdev-reddit-hub-2026-11-23</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-telegram-20261026-1-2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 06:44:27 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Fast-paced updates on frontier AI model releases, arXiv research papers, multimodal benchmarks, and open weights.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/StableDiffusion Local Art (Reddit)</title>
-      <link>https://www.reddit.com/r/StableDiffusion/</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261025-1-2026-10-25</guid>
-      <pubDate>Sun, 25 Oct 2026 06:00:31 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Community dedicated to Stable Diffusion checkpoints, LoRAs, ComfyUI workflows, ControlNet, and SDXL rendering.</description>
     </item>
   </channel>
 </rss>
