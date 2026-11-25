@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 07:29:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:18:26 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/compilers Architecture &amp; LLVM (Reddit)</title>
+      <link>https://www.reddit.com/r/compilers/</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#compilers-reddit-hub-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 07:18:26 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Compiler design, AST representations, LLVM optimization pipelines, type checking algorithms, and JIT code generation.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/WebAssembly WASM &amp; WASI Systems (Reddit)</title>
       <link>https://www.reddit.com/r/WebAssembly/</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#wasm-reddit-hub-2026-11-24</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-telegram-20261027-1-2026-10-27</guid>
       <pubDate>Tue, 27 Oct 2026 06:00:29 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Daily curated breakdown of machine learning algorithms, deep learning implementations, and neural net research.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: AI Insights &amp; Research Feed (Telegram)</title>
-      <link>https://t.me/ai_insights</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-telegram-20261026-1-2026-10-26</guid>
-      <pubDate>Mon, 26 Oct 2026 06:44:27 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Fast-paced updates on frontier AI model releases, arXiv research papers, multimodal benchmarks, and open weights.</description>
     </item>
   </channel>
 </rss>
