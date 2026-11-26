@@ -4,10 +4,17 @@
     <title>Rust &amp; Systems Programming Hub</title>
     <link>https://rust-systems-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 07:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:00:31 GMT</lastBuildDate>
     <atom:link href="https://rust-systems-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/rust_gamedev Systems &amp; wgpu (Reddit)</title>
+      <link>https://www.reddit.com/r/rust_gamedev/</link>
+      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-gamedev-reddit-hub-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:31 GMT</pubDate>
+      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Low-level game engine engineering in Rust, featuring ECS architecture with Bevy, wgpu graphics shaders, and physics simulation.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/compilers Architecture &amp; LLVM (Reddit)</title>
       <link>https://www.reddit.com/r/compilers/</link>
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#compilers-reddit-hub-2026-11-25</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-reddit-20261029-1-2026-10-29</guid>
       <pubDate>Thu, 29 Oct 2026 06:00:31 GMT</pubDate>
       <description>Newly verified community added to Rust &amp; Systems Programming Hub: Systematic discussion of prompt architecture, few-shot conditioning, chain-of-thought methods, and agentic workflows.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Machine Learning Digest Channel (Telegram)</title>
-      <link>https://t.me/machinelearning_digest</link>
-      <guid isPermaLink="false">https://rust-systems-engineering-hub.netlify.app/#rust-systems-engineering-hub-telegram-20261027-1-2026-10-27</guid>
-      <pubDate>Tue, 27 Oct 2026 06:00:29 GMT</pubDate>
-      <description>Newly verified community added to Rust &amp; Systems Programming Hub: Daily curated breakdown of machine learning algorithms, deep learning implementations, and neural net research.</description>
     </item>
   </channel>
 </rss>
